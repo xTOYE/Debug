@@ -11,7 +11,7 @@ public class LevelGen : MonoBehaviour
 
     private void Start()
     {
-        
+        GenerateLevel();
     }
 
     void GenerateLevel()
